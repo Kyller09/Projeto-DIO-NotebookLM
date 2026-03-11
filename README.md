@@ -72,4 +72,7 @@ Material em formato de slides e documentos educativos sobre organização financ
 Essas fontes foram selecionadas para estudo e análise dentro do NotebookLM, servindo como base para a criação das notas presentes neste repositório.
 As fontes também estão disponíveis na pasta /fontes
 
+# Link para o NotebookLM
+https://notebooklm.google.com/notebook/ea476617-735f-4e29-9fb3-b8b401105486
+
 
