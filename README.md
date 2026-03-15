@@ -23,7 +23,7 @@ com auxílio do NotebookLM.
 ## Estrutura
 Cada pasta contém notas em Markdown sobre um tema específico.
 
-## 📚 Curadoria de Fontes
+# 📚 Curadoria de Fontes
 
 As seguintes **fontes abertas** foram utilizadas como base para os estudos deste repositório.
 Os materiais estão disponíveis gratuitamente online e foram selecionados para estudo e organização de notas no **NotebookLM**.
